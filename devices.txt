@@ -1,0 +1,22 @@
+OUI/MA-L                                                    Organization                                 
+company_id                                                  Organization                                 
+                                                            Address                                      
+
+10-E9-92   (hex)		INGRAM MICRO SERVICES
+10E992     (base 16)		INGRAM MICRO SERVICES
+				100 CHEMIN DE BAILLOT
+				MONTAUBAN    82000
+				FR
+
+78-F2-76   (hex)		Cyklop Fastjet Technologies (Shanghai) Inc.
+78F276     (base 16)	 Cyklop Fastjet Technologies (Shanghai) Inc.
+				No 18?Lane 699, Zhang Wengmiao Rd,  Fengxian district, Shanghai China
+				Shanghai    201401
+				CN
+
+28-6F-B9   (hex)		Nokia Shanghai Bell Co., Ltd.
+286FB9     (base16)		Nokia Shanghai Bell Co., Ltd.
+				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai
+				Shanghai     201206
+				CN
+
